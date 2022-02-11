@@ -7,6 +7,8 @@ public class Main {
 		
 	//herencia: cuando una clase hereda a otra, esta tiene acceso a sus atributos y metodos 
 		
+		
+		
 		Cuadrado cuadrado1 = new Cuadrado();
 		cuadrado1.setAlto(10);
 		cuadrado1.setLargo(10);

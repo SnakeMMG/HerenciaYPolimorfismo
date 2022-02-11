@@ -20,10 +20,7 @@ public abstract class FiguraGeometrica {
 	}
 	*/
 	
-
-	
-
-	public String getNombre() {
+    public String getNombre() {
 		return nombre;
 	}
 
